@@ -9,8 +9,9 @@ Ultimate Mortal Kombat Deception is a PC only modification for PS2 version of Mo
 
 ### NOTE: Currently there's no plans to make this mod work on an actual PS2, might change in the future if this proves to be possible.
 
+# Features
 
-# Characters
+### Characters
 
 Current goal of the mod is to port MKU and exclusive GC characters first.
 
@@ -42,4 +43,8 @@ Current version: V1
 
 LINK
 
-Please follow the video instruction here: LINK
+Please follow the video instruction here to learn how to use this mod: LINK
+
+
+# Repos
+https://github.com/ermaccer/MKDHook - MKDHook is responsible for all code changes.
