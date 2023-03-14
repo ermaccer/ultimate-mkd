@@ -26,12 +26,12 @@ Current goal of the mod is to port MKU and exclusive GC characters first.
 | Goro | ⛔ Not Started | N/A |
 
 
-# Stages
+## Stages
 
 Fully restored Katakombs is now in the stage rotation as well as on select screen, all Dojos from Konquest mode have been made as available stages too.
 
 
-# Ladder Improvements
+## Ladder Improvements
 
 Every single ladder is now completely randomized, extra characters and stages will also appear as opponents.
 
