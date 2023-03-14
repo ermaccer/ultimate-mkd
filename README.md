@@ -41,10 +41,11 @@ Every single ladder is now completely randomized, extra characters and stages wi
 
 Current version: V1
 
-LINK
+Check for files https://github.com/ermaccer/ultimate-mkd/releases
 
-Please follow the video instruction here to learn how to use this mod: LINK
-
+Video How To Install: https://www.youtube.com/watch?v=HAX8KxVIRt0
 
 # Repos
 https://github.com/ermaccer/MKDHook - MKDHook is responsible for all code changes.
+
+https://github.com/ASI-Factory/PCSX2-Fork-With-Plugins/releases - A fork of PCSX2 which adds plugins
