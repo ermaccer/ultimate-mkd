@@ -26,15 +26,6 @@ Current goal of the mod is to port MKU and exclusive GC characters first.
 | Goro | ⛔ Not Started | N/A |
 
 
-### Stages
-
-Fully restored Katakombs is now in the stage rotation as well as on select screen, all Dojos from Konquest mode have been made as available stages too.
-
-
-### Ladder Improvements
-
-Every single ladder is now completely randomized, extra characters and stages will also appear as opponents.
-
 
 # Download
 
@@ -44,6 +35,15 @@ Current version: V1
 Check for files https://github.com/ermaccer/ultimate-mkd/releases
 
 Video How To Install: https://www.youtube.com/watch?v=HAX8KxVIRt0
+
+## Changelog
+
+**V1**
+ - Three new characters: Jax, Kitana and Sonya
+ - New restored stage: Katakombs
+ - Fully randomized ladders
+ - Onaga tweaks (movelist, no intro)
+ - Konquest stages & dojos available in normal stage selection
 
 # Repos
 https://github.com/ermaccer/MKDHook - MKDHook is responsible for all code changes.
