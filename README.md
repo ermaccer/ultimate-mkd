@@ -20,7 +20,7 @@ Current goal of the mod is to port MKU and exclusive GC characters first.
 | Sonya | ✅ Done | https://youtu.be/ODtz7OYI5SE |
 | Kitana | ✅ Done | https://youtu.be/gED1Q2LSpAo |
 | Jax | ✅ Done | https://youtu.be/5wcyICiY3FM |
-| Frost | ⚠️ In Progress | N/A |
+| Frost | ✅ Done| N/A |
 | Blaze | ⛔ Not Started | N/A |
 | Shao Kahn | ⛔ Not Started | N/A |
 | Goro | ⛔ Not Started | N/A |
