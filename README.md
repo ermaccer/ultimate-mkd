@@ -30,13 +30,19 @@ Current goal of the mod is to port MKU and exclusive GC characters first.
 # Download
 
 
-Current version: V1
+Current version: V2
 
 Check for files https://github.com/ermaccer/ultimate-mkd/releases
 
 Video How To Install: https://www.youtube.com/watch?v=HAX8KxVIRt0
 
 ## Changelog
+
+
+**V2**
+ - Three new characters: Blaze, Frost and Shao Kahn
+ - Kitana special moves sounds are now affected by sound settings
+ - New fatalities no longer pause for a while after they are finished
 
 **V1**
  - Three new characters: Jax, Kitana and Sonya
