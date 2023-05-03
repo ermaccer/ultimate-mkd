@@ -106,3 +106,5 @@ Go to **Advanced** and set **Rounding Mode** to **Nearest**.
 
 
 You are ready to play UMKD!
+
+Press L3 at select screen to access the new characters.
