@@ -23,7 +23,7 @@ Current goal of the mod is to port MKU and exclusive GC characters first.
 | Frost | ✅ Done| https://youtu.be/JAA1lc9ZeXE |
 | Blaze | ✅ Done| https://youtu.be/ZvAlTYgY8xo |
 | Shao Kahn | ✅ Done | https://youtu.be/voCa6wB3bRE |
-| Goro | ⛔ Not Started | N/A |
+| Goro | ⚠ In Progress | N/A |
 
 
 
