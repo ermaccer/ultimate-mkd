@@ -9,6 +9,15 @@ Ultimate Mortal Kombat Deception is a modification for PS2 version of Mortal Kom
 
 ### NOTE: Current PS2 support is experimental, if it works it works - unless you find a crash that's easily reproducible I'm afraid there's nothing that can be done!
 
+
+
+# Screenshots
+![](https://raw.githubusercontent.com/ermaccer/ultimate-mkd/master/img/1.jpg)
+![](https://raw.githubusercontent.com/ermaccer/ultimate-mkd/master/img/2.jpg)
+![](https://raw.githubusercontent.com/ermaccer/ultimate-mkd/master/img/3.jpg)
+![](https://raw.githubusercontent.com/ermaccer/ultimate-mkd/master/img/4.jpg)
+
+
 # Features
 
 ## New Characters
@@ -79,13 +88,6 @@ PS2 support was added in the V3 version of UMKD, it is currently experimental an
 ## Konquest mode
 
 Since the mod pushes PS2 executable hard enough, it is not recommended to play Konquest on the UMKD modded version of MKD.
-
-
-# Screenshots
-![](https://raw.githubusercontent.com/ermaccer/ultimate-mkd/master/img/1.jpg)
-![](https://raw.githubusercontent.com/ermaccer/ultimate-mkd/master/img/2.jpg)
-![](https://raw.githubusercontent.com/ermaccer/ultimate-mkd/master/img/3.jpg)
-![](https://raw.githubusercontent.com/ermaccer/ultimate-mkd/master/img/4.jpg)
 
 # Repos
 https://github.com/ermaccer/MKDHook - MKDHook is responsible for all code changes.
