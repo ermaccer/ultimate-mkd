@@ -37,7 +37,7 @@ Open "cdvdgen", it's a tool designed to create PS2 DVD and CD images from scratc
    - SYSTEM.CNF
    - NETR.OVL
    - NTGUI.ELF
-   - SLUS_208.81 (can also go on end)
+   - SLUS_208.81 (**If using PS2 version of the mod, use the provided SLUS_208.81 file from the !PS2 folder instead of the extracted one**)
    - AREA51 (folder, can also be removed)
    - CNF (folder)
    - LICENSE (folder)
@@ -71,6 +71,8 @@ Now pen "iml2iso", it's a tool designed to convert the IML file listing into a w
 
 
 ## Settings PCSXF2 UP
+
+# Skip this section if you want to play this mod on PS2!
 
 PCSX2F is a custom fork/edit of normal PCSX2 which comes with more RAM, plugins support and many other modding oriented features!
 
@@ -107,4 +109,3 @@ Go to **Advanced** and set **Rounding Mode** to **Nearest**.
 
 You are ready to play UMKD!
 
-Press L3 at select screen to access the new characters.
