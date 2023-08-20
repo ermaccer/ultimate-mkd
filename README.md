@@ -10,14 +10,6 @@ Ultimate Mortal Kombat Deception is a modification for PS2 version of Mortal Kom
 ### NOTE: Current PS2 support is experimental, if it works it works - unless you find a crash that's easily reproducible I'm afraid there's nothing that can be done!
 
 
-
-# Screenshots
-![](https://raw.githubusercontent.com/ermaccer/ultimate-mkd/master/img/1.jpg)
-![](https://raw.githubusercontent.com/ermaccer/ultimate-mkd/master/img/2.jpg)
-![](https://raw.githubusercontent.com/ermaccer/ultimate-mkd/master/img/3.jpg)
-![](https://raw.githubusercontent.com/ermaccer/ultimate-mkd/master/img/4.jpg)
-
-
 # Features
 
 ## New Characters
@@ -31,11 +23,14 @@ Ultimate Mortal Kombat Deception is a modification for PS2 version of Mortal Kom
 | Blaze | ✅ Done| https://youtu.be/ZvAlTYgY8xo |
 | Shao Kahn | ✅ Done | https://youtu.be/voCa6wB3bRE |
 | Goro | ✅ Done | https://youtu.be/pJpnEWbMQds |
+| Drahmin | ✅ Done| https://youtu.be/jKyuNLhHfoo |
+| Sareena | ✅ Done | https://youtu.be/M7JsnM7SLM0 |
+| Quan Chi | ✅ Done | https://youtu.be/oC72se-mPO8 |
 
 
 
 # Download
-Current version: **V3**
+Current version: **V4**
 
 Check for files https://github.com/ermaccer/ultimate-mkd/releases
 
@@ -46,7 +41,26 @@ Video How To Install: https://www.youtube.com/watch?v=HAX8KxVIRt0
 
 
 
+# Screenshots
+![](https://raw.githubusercontent.com/ermaccer/ultimate-mkd/master/img/1.jpg)
+![](https://raw.githubusercontent.com/ermaccer/ultimate-mkd/master/img/2.jpg)
+![](https://raw.githubusercontent.com/ermaccer/ultimate-mkd/master/img/3.jpg)
+![](https://raw.githubusercontent.com/ermaccer/ultimate-mkd/master/img/4.jpg)
+![](https://raw.githubusercontent.com/ermaccer/ultimate-mkd/master/img/5.jpg)
+![](https://raw.githubusercontent.com/ermaccer/ultimate-mkd/master/img/6.jpg)
+![](https://raw.githubusercontent.com/ermaccer/ultimate-mkd/master/img/7.jpg)
+
 ## Changelog
+
+**V4**
+ - New characters: Drahmin, Sareena and Quan Chi
+ - Locked death traps for Blaze on Sky Temple, Lower Mines and Dark Prison due to issues
+ - Frost now plays female sounds correctly when getting up
+ - Frost's throw now does 2 damage sections instead of 3
+ - Kitana's D3 in Eagle Claw no longer crashes the game
+ - Fixed corrupted slot in alternate select screen
+ - Fixed glitched kontent item names
+ - Ladder models are now loaded from `kon_unique_npcs.ssf`
 
 **V3**
  - New character: Goro
@@ -76,7 +90,7 @@ Video How To Install: https://www.youtube.com/watch?v=HAX8KxVIRt0
 
 
 # PS2 vs PC
-PS2 support was added in the V3 version of UMKD, it is currently experimental and some features have been cut when compared to the PC (emulated) version.
+PS2 support was added in the V3 version of UMKD, it is currently experimental and some features (nothing gameplay related) have been cut when compared to the PC (emulated) version.
 
 ## Cut features
 - In-game menu (L3)
