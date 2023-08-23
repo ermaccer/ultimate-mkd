@@ -30,12 +30,14 @@ Ultimate Mortal Kombat Deception is a modification for PS2 version of Mortal Kom
 
 
 # Download
-Current version: **V4**
+Current version: **V4.1**
 
 Check for files https://github.com/ermaccer/ultimate-mkd/releases
 
 Video How To Install: https://www.youtube.com/watch?v=HAX8KxVIRt0
 
+
+**To update UMKD, just redo the installation tutorial and make sure to update plugin/executable**
 
 ### All new characters can be accessed by pressing L3 as any player on the select screen!
 
@@ -51,6 +53,18 @@ Video How To Install: https://www.youtube.com/watch?v=HAX8KxVIRt0
 ![](https://raw.githubusercontent.com/ermaccer/ultimate-mkd/master/img/7.jpg)
 
 ## Changelog
+
+**V4.1**
+- Fixed Drahmin's infinite with propeller clock
+- Fixed Drahmin's propeller clock always hitting AI even if they blocked the first hit
+- Drahmin's Iron Club B1, 11B2 and B2 are no longer unblockable
+- Sareena's Skull Bash is no longer unblockable, minor speed decrease
+- Sareena's Cartwheel Kick first hit is now more consistent
+- Sareena's Baji Quan 11b2 string now always connects properly
+- Quan Chi's Heel Kick is no longer unblockable
+- Quan Chi's Broadswords 11 enders are no longer unblockable 
+- Quan Chi's Skull Toss is no longer unblockable
+- Added Quan Chi's Fortress to restricted death traps list for Blaze    
 
 **V4**
  - New characters: Drahmin, Sareena and Quan Chi
