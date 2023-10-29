@@ -14,19 +14,19 @@ Ultimate Mortal Kombat Deception is a modification for PS2 version of Mortal Kom
 
 ## New Characters
 
-| Name | Status | Video |
-|       ---       |       ---       |      ---       |
-| Sonya | ✅ Done | https://youtu.be/ODtz7OYI5SE |
-| Kitana | ✅ Done | https://youtu.be/gED1Q2LSpAo |
-| Jax | ✅ Done | https://youtu.be/5wcyICiY3FM |
-| Frost | ✅ Done| https://youtu.be/JAA1lc9ZeXE |
-| Blaze | ✅ Done| https://youtu.be/ZvAlTYgY8xo |
-| Shao Kahn | ✅ Done | https://youtu.be/voCa6wB3bRE |
-| Goro | ✅ Done | https://youtu.be/pJpnEWbMQds |
-| Drahmin | ✅ Done| https://youtu.be/jKyuNLhHfoo |
-| Sareena | ✅ Done | https://youtu.be/M7JsnM7SLM0 |
-| Quan Chi | ✅ Done | https://youtu.be/oC72se-mPO8 |
-
+| Name | Status | Video | Version |
+|       ---       |       ---       |      ---       |      ---       |
+| Sonya | ✅ Done | https://youtu.be/ODtz7OYI5SE | V1|
+| Kitana | ✅ Done | https://youtu.be/gED1Q2LSpAo |V1|
+| Jax | ✅ Done | https://youtu.be/5wcyICiY3FM |V1|
+| Frost | ✅ Done| https://youtu.be/JAA1lc9ZeXE |V2|
+| Blaze | ✅ Done| https://youtu.be/ZvAlTYgY8xo |V2|
+| Shao Kahn | ✅ Done | https://youtu.be/voCa6wB3bRE |V2|
+| Goro | ✅ Done | https://youtu.be/pJpnEWbMQds |V3|
+| Drahmin | ✅ Done| https://youtu.be/jKyuNLhHfoo |V4|
+| Sareena | ✅ Done | https://youtu.be/M7JsnM7SLM0 |V4|
+| Quan Chi | ✅ Done | https://youtu.be/oC72se-mPO8 |V4|
+| Shang Tsung | ✅ Done | https://youtu.be/BWx9e_P1APc  |V5|
 
 
 # Download
