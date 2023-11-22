@@ -28,6 +28,7 @@ Ultimate Mortal Kombat Deception is a modification for PS2 version of Mortal Kom
 | Quan Chi | ✅ Done | https://youtu.be/oC72se-mPO8 |V4|
 | Shang Tsung | ✅ Done | https://youtu.be/BWx9e_P1APc  |V5|
 | Kung Lao | ✅ Done | https://youtu.be/zTaKNtVIZ4A  | V5|
+| Johnny Cage | ✅ Done | https://youtu.be/WNu9NtZACPw | V5 |
 
 # Download
 Current version: **V4.1**
