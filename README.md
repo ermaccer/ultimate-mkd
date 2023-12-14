@@ -31,7 +31,7 @@ Ultimate Mortal Kombat Deception is a modification for PS2 version of Mortal Kom
 | Johnny Cage | ✅ Done | https://youtu.be/WNu9NtZACPw | V5 |
 
 # Download
-Current version: **V4.1**
+Current version: **V5**
 
 Check for files https://github.com/ermaccer/ultimate-mkd/releases
 
@@ -55,6 +55,16 @@ Video How To Install: https://www.youtube.com/watch?v=HAX8KxVIRt0
 
 ## Changelog
 
+**V5**
+- New characters: Shang Tsung, Kung Lao, Johnny Cage
+- New stage: Acidbath
+- AI can now use all added characters in Chess Kombat
+- Added a new INI toggle that allows to improve draw distance in Konquest mode
+- Fixed Drahmin's projectile being breakable
+- Fixed Shao Kahn's taunt not playing properly
+- Fixed Quan Chi's projectile playing Havik sounds when fighting against Havik
+- Improved Sareena's weapon trails
+  
 **V4.1**
 - Fixed Drahmin's infinite with propeller clock
 - Fixed Drahmin's propeller clock always hitting AI even if they blocked the first hit
