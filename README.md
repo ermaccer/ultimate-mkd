@@ -31,7 +31,7 @@ Ultimate Mortal Kombat Deception is a modification for PS2 version of Mortal Kom
 | Johnny Cage | ✅ Done | https://youtu.be/WNu9NtZACPw | V5 |
 
 # Download
-Current version: **V5**
+Current version: **V5.1**
 
 Check for files https://github.com/ermaccer/ultimate-mkd/releases
 
@@ -54,6 +54,13 @@ Video How To Install: https://www.youtube.com/watch?v=HAX8KxVIRt0
 ![](https://raw.githubusercontent.com/ermaccer/ultimate-mkd/master/img/7.jpg)
 
 ## Changelog
+
+**V5.1**
+- Replaced select screen cursor sync with character ID which allows UMKD vs normal characters online
+- Kung Lao’s throw is no longer blockable during animation
+- Kung Lao’s Broadsword B3 is now a launcher
+- Kung Lao’s Whirlwind Spin now plays MK2 sound
+- Cage’s Shorin Ryu 2CS now works properly
 
 **V5**
 - New characters: Shang Tsung, Kung Lao, Johnny Cage
