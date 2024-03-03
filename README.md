@@ -31,6 +31,7 @@ Ultimate Mortal Kombat Deception is a modification for PS2 version of Mortal Kom
 | Johnny Cage | ✅ Done | https://youtu.be/WNu9NtZACPw | V5 |
 | Rain | ✅ Done | https://youtu.be/Oz2UbqNqjjk  | V6 |
 | Nitara | ✅ Done | https://youtu.be/xKL9razuRBk  | V6 |
+| Sektor | ✅ Done | https://youtu.be/81uE4FVf4XI   | V6 |
 
 # Download
 Current version: **V5.1**
