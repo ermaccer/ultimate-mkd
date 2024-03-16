@@ -34,7 +34,7 @@ Ultimate Mortal Kombat Deception is a modification for PS2 version of Mortal Kom
 | Sektor | ✅ Done | https://youtu.be/81uE4FVf4XI   | V6 |
 
 # Download
-Current version: **V5.1**
+Current version: **V6**
 
 Check for files https://github.com/ermaccer/ultimate-mkd/releases
 
@@ -57,6 +57,18 @@ Video How To Install: https://www.youtube.com/watch?v=HAX8KxVIRt0
 ![](https://raw.githubusercontent.com/ermaccer/ultimate-mkd/master/img/7.jpg)
 
 ## Changelog
+
+**V6**
+- New characters: Sektor, Rain, Nitara
+- Frost's Slide now hits low
+- Quan Chi's throw is no longer breakable
+- Quan Chi's low slide smoke FX now plays properly on both legs
+- Kung Lao's throw is no longer breakable
+- Kung Lao's throw is no longer escapable mid animation
+- Kung Lao's alternate costume should no longer affect other characters
+- Practice mode now displays damage region alongside damage
+- Added new .ini toggle to set maximum AI level (doesn't change ladder text)
+- Konquest stages now play random music
 
 **V5.1**
 - Replaced select screen cursor sync with character ID which allows UMKD vs normal characters online
