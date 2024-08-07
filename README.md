@@ -32,18 +32,26 @@ Ultimate Mortal Kombat Deception is a modification for PS2 version of Mortal Kom
 | Rain | ✅ Done | https://youtu.be/Oz2UbqNqjjk  | V6 |
 | Nitara | ✅ Done | https://youtu.be/xKL9razuRBk  | V6 |
 | Sektor | ✅ Done | https://youtu.be/81uE4FVf4XI   | V6 |
+| Tremor | ✅ Done | https://youtu.be/VpmjBX8PdOA  | V7 |
+| Cyrax | ✅ Done | https://youtu.be/qQGQq0UdGz8  | V7 |
+| Reiko | ✅ Done | https://youtu.be/fjHaHgIW9zo   | V7 |
 
 # Download
-Current version: **V6**
+Current version: **V7**
 
 Check for files https://github.com/ermaccer/ultimate-mkd/releases
 
+
 Video How To Install: https://www.youtube.com/watch?v=HAX8KxVIRt0
+
+
+Last PS2 compatible version: **V6** (https://github.com/ermaccer/ultimate-mkd/releases/tag/v6)
 
 
 **To update UMKD, just redo the installation tutorial and make sure to update plugin/executable**
 
 ### All new characters can be accessed by pressing L3 as any player on the select screen!
+
 
 
 
@@ -57,6 +65,48 @@ Video How To Install: https://www.youtube.com/watch?v=HAX8KxVIRt0
 ![](https://raw.githubusercontent.com/ermaccer/ultimate-mkd/master/img/7.jpg)
 
 ## Changelog
+
+**V7**
+
+General
+- New characters: Tremor, Cyrax, Reiko
+- Added alternate palette select, press Circle at select screen in Arcade, Versus and Practice to toggle alternate palette for any selection, not available in online
+- Updated finishing timers for Kitana, Shao Kahn, Goro, Jax and Frost
+
+Kitana 
+- Added Fan Throw special move
+- Added Edenian Teleport special move
+- Added weapon trails to Steel Fans
+- Added facial animations to alternate costume
+- Fixed corrupted screaming audio while hitting an airborne enemy with Fan Lift
+- Fixed Fan Lift being unblockable in some cases
+- Fixed inaccuracies in Eagleclaw movelist
+
+Nitara
+- Changed Kama D1 reaction
+- Changed select screen icon
+
+Sektor 
+- Ninjitsu 113 now ends in a kick animation
+- Ninjitsu D4 now hits Low
+- Heavily restricted flamethrower usage, infinite no longer possible
+
+Drahmin
+- Wrestling D1 no longer corrupts other moves
+
+Shao Kahn
+- New weapon trail effect
+- Added facial animations
+
+Blaze
+- Feet decals now match rest of the fighters
+- Added alternate palette
+- Added alternate costume
+- Added facial animations to primary costume
+- New victory pose
+
+Onaga
+- Added alternate palette
 
 **V6**
 - New characters: Sektor, Rain, Nitara
